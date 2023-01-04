@@ -1,4 +1,4 @@
-[image](https://user-images.githubusercontent.com/68329315/210499513-e2d10057-c2bb-408c-967a-bd60545b6b9c.png)
+Genral Landhing page: ![image](https://user-images.githubusercontent.com/68329315/210499513-e2d10057-c2bb-408c-967a-bd60545b6b9c.png)
 About Page: ![image](https://user-images.githubusercontent.com/68329315/210499644-d0fcf4be-1b66-447a-ae12-0a3ee1e28a7b.png)
 Skills: ![image](https://user-images.githubusercontent.com/68329315/210499758-68d2b4eb-d921-4267-ad00-ea83c86e1e45.png)
 Education and Experience:![image](https://user-images.githubusercontent.com/68329315/210499862-befd9927-92aa-4d79-86d5-985ea9995d12.png)
